@@ -1,0 +1,28 @@
+# Core Deep Learning Framework
+torch==2.0.0                    # PyTorch for building and training neural networks
+torchvision==0.15.0            # Pretrained models and image transformations
+
+# Audio Processing
+librosa==0.10.0                # Audio loading, feature extraction, and mel-spectrograms
+soundfile==0.12.1              # Audio file reading and writing
+
+# Data Processing
+numpy==1.24.0                  # Numerical operations and array handling
+pandas==2.0.0                  # Data manipulation and CSV handling
+
+# Machine Learning Utilities
+scikit-learn==1.2.0            # Train-test split, metrics, label encoding
+
+# Visualization
+matplotlib==3.7.0              # Plotting training curves and spectrograms
+seaborn==0.12.0                # Statistical visualizations and heatmaps
+
+# Experiment Tracking
+wandb==0.15.0                  # Weights and Biases for experiment logging
+
+# Progress Tracking
+tqdm==4.65.0                   # Progress bars for loops and data loading
+
+# Additional Dependencies
+numba==0.57.0                  # Librosa dependency for performance
+scipy==1.10.0                  # Scientific computing for audio processing
