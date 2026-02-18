@@ -3,3 +3,4 @@ Initial project setup and repository structure
 Started dataset exploration and audio analysis
 Analyzed genre distribution and file statistics
 Implemented silence detection in audio files
+Completed EDA with visualizations and insights
