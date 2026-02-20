@@ -5,3 +5,4 @@ Analyzed genre distribution and file statistics
 Implemented silence detection in audio files
 Completed EDA with visualizations and insights
 Milestone 1: Dataset exploration and analysis complete
+Started feature extraction pipeline implementation
