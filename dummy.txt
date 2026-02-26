@@ -8,3 +8,4 @@ Milestone 1: Dataset exploration and analysis complete
 Started feature extraction pipeline implementation
 Implemented mel-spectrogram generation and processing
 Added spectral features and audio normalization
+Implemented baseline decision tree classifier
