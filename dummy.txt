@@ -9,3 +9,4 @@ Started feature extraction pipeline implementation
 Implemented mel-spectrogram generation and processing
 Added spectral features and audio normalization
 Implemented baseline decision tree classifier
+Evaluated baseline performance and feature importance
