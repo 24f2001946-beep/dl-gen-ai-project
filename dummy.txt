@@ -10,3 +10,4 @@ Implemented mel-spectrogram generation and processing
 Added spectral features and audio normalization
 Implemented baseline decision tree classifier
 Evaluated baseline performance and feature importance
+Milestone 2: Feature engineering and baseline model complete
