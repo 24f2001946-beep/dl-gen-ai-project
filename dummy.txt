@@ -11,3 +11,4 @@ Added spectral features and audio normalization
 Implemented baseline decision tree classifier
 Evaluated baseline performance and feature importance
 Milestone 2: Feature engineering and baseline model complete
+Started custom CNN architecture development
