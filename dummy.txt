@@ -14,3 +14,4 @@ Milestone 2: Feature engineering and baseline model complete
 Started custom CNN architecture development
 Added convolutional layers and batch normalization
 Implemented ResNet18 transfer learning model
+Added depthwise separable CNN architecture
