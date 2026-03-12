@@ -17,3 +17,4 @@ Implemented ResNet18 transfer learning model
 Added depthwise separable CNN architecture
 Trained all models with Weights and Biases tracking
 Milestone 3: Deep learning models implementation complete
+Started comprehensive model evaluation and comparison
