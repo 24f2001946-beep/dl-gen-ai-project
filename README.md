@@ -119,6 +119,6 @@ All experiments are logged to Weights and Biases for tracking.
 
 ## Author
 
-Student ID: 24f2001946-iitm  
+Student ID: 24f2001946 
 Course: BSDA2001P Introduction to Deep Learning and GenAI  
 Competition: January 2026 DL GenAI Project
