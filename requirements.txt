@@ -25,4 +25,4 @@ tqdm==4.65.0                   # Progress bars for loops and data loading
 
 # Additional Dependencies
 numba==0.57.0                  # Librosa dependency for performance
-scipy==1.10.0                  # Scientific computing for audio processing
+scipy==1.10.0                  # Computing for audio processing
